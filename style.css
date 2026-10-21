@@ -1,0 +1,48 @@
+body{
+    font-family: Arial;
+    background: #f2f2f2;
+    margin: 0; /* margin = outSide Space */
+    padding: 0; /* padding = inSide Space */
+}
+
+header{
+    background: black;
+    color: white;
+    teXt-align: center;
+    padding: 20pX; /* Space inSide header */
+    margin-bottom: 20pX; /* Space outSide header */
+}
+
+.boX{
+    background: white;
+    border-radiuS: 8pX;
+    margin: 15pX; /* Space OUTSIDE boX - SeparateS boXeS */
+    padding: 15pX; /* Space INSIDE boX - makeS teXt not touch edge */
+}
+
+.boX h3{
+    margin: 0 0 10pX 0; /* margin bottom 10pX */
+    font-Size: 16pX;
+}
+
+audio{
+    width: 100%;
+    margin-top: 10pX; /* Space outSide audio on top */
+}
+
+button{
+    background: orange;
+    color: white;
+    border: none;
+    padding: 8pX 15pX; /* padding inSide button */
+    margin-top: 10pX; /* margin outSide button */
+    border-radiuS: 5pX;
+}
+
+footer{
+    teXt-align: center;
+    font-Size: 12pX;
+    color: gray;
+    padding: 20pX;
+    margin-top: 20pX;
+}
